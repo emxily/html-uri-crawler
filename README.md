@@ -96,16 +96,6 @@ A list of all the unique URIs grabbed has been saved to Crawled-Links.txt
 <br />
 
 
-# Authors
-
-**Author:** Emily Nowak
-
-*Based on **"Homework 1 - Web Science Intro."** by **Prof. Nasreen Arif** for CS:432 Web Science, at Old Dominion University* 
-
-
-<br />
-
-
 # Version History
 
 * 0.1
@@ -115,6 +105,17 @@ A list of all the unique URIs grabbed has been saved to Crawled-Links.txt
 
 
 <br />
+
+
+# Authors
+
+**Author:** Emily Nowak
+
+*Based on **"Homework 1 - Web Science Intro."** by **Prof. Nasreen Arif** for CS:432 Web Science, at Old Dominion University* 
+
+
+<br />
+
 
 
 # Acknowledgments
