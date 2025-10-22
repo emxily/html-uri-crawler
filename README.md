@@ -120,13 +120,13 @@ A list of all the unique URIs grabbed has been saved to Crawled-Links.txt
 
 # Acknowledgments
 
-### Original Assignment
+## Original Assignment
 
 [HW1 - Web Science Intro. - Question 3 Origninal Instructions](https://github.com/emxily/html-uri-crawler/blob/cec0cd57c59a0b7e5bf42890bf14d824860829a8/original-assignment-intructions.md)
 
 * ***Note:**  Only Question 3 applies to this program implementation.*
 
-### References
+## References
 * Markdown Syntax: <https://www.markdownguide.org/basic-syntax/#headings>
 * HTML Syntax: <https://www.w3schools.com/tags>
 * Beautiful Soup Documentation: <https://www.crummy.com/software/BeautifulSoup/bs4/doc>
