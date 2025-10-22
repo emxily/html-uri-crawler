@@ -107,6 +107,6 @@ You will likely want to use the BeautifulSoup Python library for this question.
 
 **Author:** Professor Nasreen Arif
 
-[Public Assignment Instructions](https://github.com/odu-cs432-websci/public-fall25/blob/main/HW1-intro.md)
+[Public Assignment Instructions](https://github.com/odu-cs432-websci/public-fall25/blob/c5036bd62b26b327f8b3ecd0cb6405c75d99dd71/HW1-intro.md)
 
 **This assignment was originally from CS432 Web Science, Old Dominion University**
