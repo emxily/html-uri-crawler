@@ -1,7 +1,6 @@
 # html-uri-crawler
 
 A randomized web crawler that collects unique HTML URIs that are larger than 1000 bytes, starting from a given seed page.
-
 <br />
 
 
